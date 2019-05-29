@@ -3,3 +3,5 @@ A project I did for my Senior Seminar class. A program that checks whether a pai
 
 For class instructions, we were to use Python 2.7.15 and the Jupyter Notebook IDE.
 The program was made in Jupyter Notebook so when you view it you can also see the output (see the .ipynb file). 
+
+This was my introduction into data science and big data!
